@@ -1,0 +1,1 @@
+\b.kr\b|\b@hanmail\b|\b@hotmail\b|\bkorean\b|\bSouth Korea\b|\bkorea\b|\bmail\b|\b@nate\b|\b@naver\b|\b@daum\b, email.txt, email
